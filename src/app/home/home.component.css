@@ -1,0 +1,58 @@
+.home-container {
+  padding: 30px 20px;
+}
+
+.home-title {
+  margin: 0;
+  font-size: 22px;
+  color: var(--color-orange);
+  font-weight: var(--font-semi-bold);
+}
+
+.location-container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.location-container .location-select {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 15px;
+  background-color: var(--color-white);
+  border-radius: 20px;
+  box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.location-container .location-select .icon:first-child {
+  font-size: 30px;
+  color: var(--color-orange);
+}
+
+.location-container .location-select .icon:last-child {
+  font-size: 20px;
+  color: var(--color-black);
+}
+
+.location-container .location-select span {
+  margin: 0 10px 0 5px;
+  color: var(--color-gray);
+  font-weight: var(--font-medium);
+}
+
+.location-container .shopping-card-button {
+  padding: 12px 18px;
+  background-color: var(--color-white);
+  border-radius: 10px;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.location-container .shopping-card-button .icon {
+  font-size: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-orange);
+}
