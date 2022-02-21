@@ -1,0 +1,98 @@
+{
+  "pizzas": [
+    {
+      "name": "Piza Napolitana",
+      "time": "30 min",
+      "image": "https://cdn.pixabay.com/photo/2014/06/30/20/53/pizza-380773_960_720.jpg"
+    },
+    {
+      "name": "Pizza Cuatro Quesos",
+      "time": "40 min",
+      "image": "https://cdn.pixabay.com/photo/2015/06/11/18/26/pizza-806087_960_720.jpg"
+    },
+    {
+      "name": "Pizza Barbacoa",
+      "time": "50 min",
+      "image": "https://cdn.pixabay.com/photo/2016/03/05/20/12/american-1238698_960_720.jpg"
+    },
+    {
+      "name": "Pizza Diávola",
+      "time": "60 min",
+      "image": "https://cdn.pixabay.com/photo/2020/05/17/04/22/pizza-5179939_960_720.jpg"
+    }
+  ],
+  "empanadas": [
+    {
+      "name": "Empanada de Pollo",
+      "image": "https://cdn.pixabay.com/photo/2020/02/11/19/03/meal-4840664_960_720.jpg"
+    },
+    {
+      "name": "Empanada de Carne",
+      "image": "https://cdn.pixabay.com/photo/2018/08/01/21/37/empanadas-3578254_960_720.jpg"
+    },
+    {
+      "name": "Empanada de Pollo y Carne",
+      "image": "https://cdn.pixabay.com/photo/2016/01/22/20/22/meat-pie-1156563_960_720.jpg"
+    },
+    {
+      "name": "Empanada de Pollo y Queso",
+      "image": "https://cdn.pixabay.com/photo/2015/04/12/18/41/empanadas-719296_960_720.jpg"
+    },
+    {
+      "name": "Empanada cocida",
+      "image": "https://cdn.pixabay.com/photo/2020/02/11/19/03/meal-4840666_960_720.jpg"
+    }
+  ],
+  "postres": [
+    {
+      "name": "Helado",
+      "image": "https://cdn.pixabay.com/photo/2018/08/16/22/59/ice-cream-3611698_960_720.jpg"
+    },
+    {
+      "name": "Tarta",
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/19/23/tart-1283822_960_720.jpg"
+    },
+    {
+      "name": "Pastel",
+      "image": "https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_960_720.jpg"
+    },
+    {
+      "name": "Flan",
+      "image": "https://cdn.pixabay.com/photo/2017/01/06/17/18/caramel-1958358_960_720.jpg"
+    },
+    {
+      "name": "Fruta",
+      "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/raspberries-2023404_960_720.jpg"
+    },
+    {
+      "name": "Mermelada",
+      "image": "https://cdn.pixabay.com/photo/2016/07/17/12/50/jam-1523723_960_720.jpg"
+    }
+  ],
+  "bebidas": [
+    {
+      "name": "Coca-Cola",
+      "image": "https://cdn.pixabay.com/photo/2019/08/13/20/02/coca-cola-4404130_960_720.jpg"
+    },
+    {
+      "name": "Fanta",
+      "image": "https://cdn.pixabay.com/photo/2020/04/11/11/47/fanta-5030093_960_720.jpg"
+    },
+    {
+      "name": "Sprite",
+      "image": "https://cdn.pixabay.com/photo/2015/10/13/21/12/soft-drink-986803_960_720.jpg"
+    },
+    {
+      "name": "Agua",
+      "image": "https://cdn.pixabay.com/photo/2012/03/01/00/31/water-19659_960_720.jpg"
+    },
+    {
+      "name": "Jugo",
+      "image": "https://cdn.pixabay.com/photo/2016/08/23/15/52/fresh-orange-juice-1614822_960_720.jpg"
+    },
+    {
+      "name": "Cerveza",
+      "image": "https://cdn.pixabay.com/photo/2018/03/03/03/22/alcohol-3194824_960_720.jpg"
+    }
+  ]
+}

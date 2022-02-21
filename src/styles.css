@@ -24,7 +24,25 @@ html {
   box-sizing: inherit;
 }
 
-body {
+body.app {
   font-family: var(--font-name);
   background-color: var(--color-background);
+  position: relative;
+  min-height: 100vh;
+  overflow-y: scroll;
+  display: block;
+}
+
+body.app::-webkit-scrollbar {
+  width: 3px;
+}
+
+body.app::-webkit-scrollbar-track {
+  width: 200px;
+  background-color: var(--color-background);
+}
+
+body.app::-webkit-scrollbar-thumb {
+  background-color: var(--color-orange);
+  border-radius: 5px;
 }
